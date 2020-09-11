@@ -135,7 +135,7 @@ public class App {
         }
       }
     } catch (Exception e) {
-      System.out.println("history 명령 처리 중 오류 발생!");
+      System.out.println("history 명령 처리 중 오류 발생!!!");
     }
   }
 }
